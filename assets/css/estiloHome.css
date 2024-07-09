@@ -1,0 +1,14 @@
+*{
+    margin:0; /*margenes externos*/
+    padding: 0;/*espacios de separacion*/
+    box-sizing: border-box; /*borde de la pantalla*/
+}
+
+/*forma del contenedor*/
+.contenedor{
+    padding:  60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+}
